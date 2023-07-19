@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(imagens/fundo.jpg);
+    color: black;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+
+/*  teste haha */
